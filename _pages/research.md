@@ -26,5 +26,5 @@ Machine Learning and Information Leakage around Firm Earnings Announcements
 
 Efficacy and Implications of Shareholder Litigation for Disciplining Managers
 
-How Robust are Cryptocollateralized Loans to Underlying Price Shocks?, with Emin Gün Sirer
+How Robust are Cryptocollateralized Loans to Underlying Price Shocks? with Emin Gün Sirer
  
