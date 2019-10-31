@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-  I am a PhD candidate in economics with research in Corporate Finance and Financial Technology. I will be available for interviews at the ASSA conference in San Diego from January 2-6.
+  I am a PhD candidate in Economics with research in Corporate Finance and Financial Technology. I will be available for interviews at the ASSA conference in San Diego from January 2-6.
