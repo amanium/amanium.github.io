@@ -5,9 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-##Teaching Assistant
+## Teaching Assistant
 
 *Cornell University, Department of Economics*
 
@@ -19,7 +17,7 @@ Financial Economics, Gregory Besharov, Fall 2016
 
 Introductory Microeconomics, Richard Burkhauser, Fall 2015
 
-##Teaching Assistant
+## Teaching Assistant
 
 *Cornell University, SC Johnson Graduate School of Management*
 
@@ -31,13 +29,13 @@ MBA Corporate Governance, Yaniv Grinstein, Summer 2017, Winter 2018
 
 MBA Corporate Finance, Roni Michaely, Summer 2016, Summer 2017
 
-##Guest Lecturer
+## Guest Lecturer
 
 *Cornell University, Department of Operations Research and Information Engineering*
 
 Statistics for Financial Engineering, Edward Mehrez, Spring 2018
 
-##Teaching Assistant
+## Teaching Assistant
 
 *Colorado State University, Department of Biomedical Sciences*
 
